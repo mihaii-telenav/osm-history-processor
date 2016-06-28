@@ -15,3 +15,5 @@ The script it`s hardcoded to work with only 5 days. It will give an error if you
 
 `python peer_review.py date days`, for example - to find changes starting June 24, 2015 and 4 days back in time run `python peer_review.py 2016-06-24 4` 
 In total will download everything from 20 June until 24 of June (5 days)
+
+The scripts will download the daily archive from OSM, so if you want the edits from today, you will have to get them the next day, so that the OSM server will generate the daily OsmChange file for the day.
