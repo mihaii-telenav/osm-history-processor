@@ -4,7 +4,7 @@ Python port of [processing-osm-history](https://github.com/Rub21/processing-osm-
 ### Installation
 
 ```
-git clone https://github.com/baditaflorin/osm-history-processor.git
+git clone https://github.com/mihaii-telenav/osm-history-processor.git
 cd osm-history-processor
 pip install -r requirements.txt
 ```
